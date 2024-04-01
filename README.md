@@ -8,3 +8,4 @@ Enabling this for continous integration.
 This is my xyz changes
 
 # add new things 
+gitpolling
