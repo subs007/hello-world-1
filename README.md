@@ -3,9 +3,3 @@ Sample project
 
 This is a sample readme file !!
 
-Enabling this for continous integration.
-
-This is my XYZ CHANGES
-
-# add new things 
-gitpolling
